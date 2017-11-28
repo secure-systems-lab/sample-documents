@@ -7,18 +7,21 @@ many of them can even satisfy some of the requirements for the [Core
 Infrastructure Initiative (CII) Best Practices
 Badge](https://bestpractices.coreinfrastructure.org/).
 
-
 * Acknowledgements -- A project's README should
-* [acknowledge](ACKNOWLEDGEMENTS.md) who manages
-the project and indicate any grants that might support the project.
+[acknowledge](ACKNOWLEDGEMENTS.md) who manages the project and indicate any
+grants that might support the project.
 
 * Governance -- Our projects should be transparent about
-[management](GOVERNANCE.md) procedures and the handling of contributions.  Who
+[governance](GOVERNANCE.md) procedures and the handling of contributions.  Who
 are the maintainers of the project?  How are maintainers added and removed?
 
-* Vulnerability reports --
+* Vulnerability reports -- Contributors and users of a project should be given
+instructions on how to submit [vulnerability reports](vulnerability-reports.md)
+and bugs.
 
-* Maintainers --
+* Maintainers -- Document who [maintains](MAINTAINERS.txt) the project and any
+relevant information about the maintainer(s), such as email address, PGP keys,
+etc.
 
 * Roadmap --
 
