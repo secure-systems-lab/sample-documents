@@ -11,9 +11,9 @@ Badge](https://bestpractices.coreinfrastructure.org/).
 [acknowledge](ACKNOWLEDGEMENTS.md) who manages the project and indicate any
 grants that might support the project.
 
-* Governance -- Our projects should be transparent about
-[governance](GOVERNANCE.md) procedures and the handling of contributions.  Who
-are the maintainers of the project?  How are maintainers added and removed?
+* Project governance -- Our projects should be transparent about
+[governance](GOVERNANCE.md) procedures and the handling of contributions.  What
+is the role of a project maintainer?  How are maintainers added and removed?
 
 * Vulnerability reports -- Contributors and users of a project should be given
 instructions on how to submit [vulnerability reports](vulnerability-reports.md)
@@ -22,16 +22,6 @@ and bugs.
 * Maintainers -- Document who [maintains](MAINTAINERS.txt) the project and any
 relevant information about the maintainer(s), such as email address, PGP keys,
 etc.
-
-* Roadmap --
-
-* Pylint configuration --
-
-* Travis configuration --
-
-* Tox configuration --
-
-* Dependency management --
 
 * GitHub issue template -- Feature requests or bug reports should contain
 sufficient information that others can use to implement the feature or
@@ -44,6 +34,35 @@ can be given a [skeleton of the pull request
 summary](.github/PULL-REQUEST-TEMPLATE.md) when they try to submit a pull
 request.  GitHub templates should encourage users to provide enough information
 that is helpful to others.
+
+* Roadmap -- A project roadmap can help users of the project.  It is also a
+practice recommended by the CII Best Practices program.
+
+* Pylint configuration -- A static analysis tool can detect common and subtle
+programming errors, confirm that code conforms to the project's coding
+standard, and warn you about potential issues.
+[Pylint](https://www.pylint.org/) provides code analysis for Python.
+[pylintrc](pylintrc) is an example configuration file for one of our projects,
+which can verify that Python code uses two spaces for indentation, variables
+are correctly named, etc.
+
+* Tox configuration -- A [configuration file](tox.ini) for
+[Tox](https://tox.readthedocs.io/en/latest/) is provided, which can automate a
+project's testing in a virtual environment.
+
+* Travis configuration -- [Continuous
+integration](https://en.wikipedia.org/wiki/Continuous_integration) is "the
+practice of merging all developer working copies to a shared mainline several
+times a day."  [Travis CI](https://docs.travis-ci.com/user/languages/python/)
+is a popular continuous integration system with the open-source community.
+[.travis.yml](.travis.yml) is an example configuration file.
+
+* Dependency management -- Our projects should always require the latest
+versions of dependencies.  The [pyup.io](https://pyup.io) app is a handy tool
+for Python projects that can notify repo admins when a new version of a
+dependency is available.  It can even submit pull requests that updates a
+project's requirement files.  [.pyup.yml](.pyup.yml) is an example
+configuration file.
 
 ----
 
