@@ -30,6 +30,10 @@ are the maintainers of the project?  How are maintainers added and removed?
 
 * Dependency management --
 
+* GitHub issue template --
+
+* GitHub pull request template --
+
 ----
 
 For more information, please visit the
