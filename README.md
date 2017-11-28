@@ -33,9 +33,17 @@ etc.
 
 * Dependency management --
 
-* GitHub issue template --
+* GitHub issue template -- Feature requests or bug reports should contain
+sufficient information that others can use to implement the feature or
+reproduce the bug.  An [issue template](.github/ISSUE-TEMPLATE.md) can be added
+to a GitHub repository that is presented to users when they attempt to create a
+new issue.
 
-* GitHub pull request template --
+* GitHub pull request template -- Like the GitHub issue template, users
+can be given a [skeleton of the pull request
+summary](.github/PULL-REQUEST-TEMPLATE.md) when they try to submit a pull
+request.  GitHub templates should encourage users to provide enough information
+that is helpful to others.
 
 ----
 
