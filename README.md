@@ -21,7 +21,7 @@ and bugs.
 
 * Maintainers -- A project should indicate the people who
 [maintain](MAINTAINERS.txt) it and any relevant information about the
-maintainer(s), such as email address, PGP keys, etc.
+maintainer(s), such as their email address, PGP keys, etc.
 
 * GitHub issue template -- Feature requests or bug reports should contain
 sufficient information that others can use to implement the feature or
@@ -41,7 +41,7 @@ practice recommended by the CII Best Practices program.
 * Pylint configuration -- A static analysis tool can detect common and subtle
 programming errors, confirm that code conforms to the project's coding
 standard, and warn you about potential issues.
-[Pylint](https://www.pylint.org/) provides static code analysis for Python.
+[Pylint](https://www.pylint.org/) provides static code analysis for Python code.
 [pylintrc](pylintrc) is an example configuration file for one of our projects,
 which can verify that Python code uses two spaces for indentation, variables
 are correctly named, etc.
