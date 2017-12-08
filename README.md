@@ -19,9 +19,9 @@ is the role of a project maintainer?  How are maintainers added and removed?
 instructions on how to submit [vulnerability reports](vulnerability-reports.md)
 and bugs.
 
-* Maintainers -- Document who [maintains](MAINTAINERS.txt) the project and any
-relevant information about the maintainer(s), such as email address, PGP keys,
-etc.
+* Maintainers -- A project should indicate the people who
+[maintain](MAINTAINERS.txt) it and any relevant information about the
+maintainer(s), such as email address, PGP keys, etc.
 
 * GitHub issue template -- Feature requests or bug reports should contain
 sufficient information that others can use to implement the feature or
