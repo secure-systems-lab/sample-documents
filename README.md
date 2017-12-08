@@ -1,11 +1,11 @@
-# Secure Systems Lab Templates
+# Secure Systems Lab: Sample Documents
 
 Welcome to the [Secure Systems Lab (SSL)](https://ssl.engineering.nyu.edu/)
-Templates repo! Below you can find example documents usually available in our
-project repos.  These templates can be modified to suit a project's needs, and
-many of them can even satisfy some of the requirements for the [Core
-Infrastructure Initiative (CII) Best Practices
-Badge](https://bestpractices.coreinfrastructure.org/).
+Sample Documents repo! Below you can find samples of text, documents, GitHub
+templates, and configuration files usually available on SSL project repos.
+These samples can be modified to suit a project's needs, and many of them can
+even satisfy some of the requirements for the [Core Infrastructure Initiative
+(CII) Best Practices Badge](https://bestpractices.coreinfrastructure.org/).
 
 * Acknowledgements -- A project's README should
 [acknowledge](ACKNOWLEDGEMENTS.md) who manages the project and indicate any
@@ -41,14 +41,14 @@ practice recommended by the CII Best Practices program.
 * Pylint configuration -- A static analysis tool can detect common and subtle
 programming errors, confirm that code conforms to the project's coding
 standard, and warn you about potential issues.
-[Pylint](https://www.pylint.org/) provides code analysis for Python.
+[Pylint](https://www.pylint.org/) provides static code analysis for Python.
 [pylintrc](pylintrc) is an example configuration file for one of our projects,
 which can verify that Python code uses two spaces for indentation, variables
 are correctly named, etc.
 
 * Tox configuration -- A [configuration file](tox.ini) for
-[Tox](https://tox.readthedocs.io/en/latest/) is provided, which can automate a
-project's testing in a virtual environment.
+[Tox](https://tox.readthedocs.io/en/latest/) is provided, which can automate
+testing in a virtual environment.
 
 * Travis configuration -- [Continuous
 integration](https://en.wikipedia.org/wiki/Continuous_integration) is "the
