@@ -1,3 +1,7 @@
+[Note: The ROADMAP below does not apply to all SSL projects.  Please
+modify the text accordingly before incorporating it into your project.]
+
+
 # ROADMAP
 
 This is the 1-year roadmap for the project.

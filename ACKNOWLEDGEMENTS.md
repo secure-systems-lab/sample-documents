@@ -1,3 +1,7 @@
+[Note: The NSF acknowledgement below does not apply to all SSL projects.
+Please modify the text accordingly before incorporating it into your project.]
+
+
 This project is managed by Prof. Justin Cappos and other members of the Secure
 Systems Lab at NYU.
 

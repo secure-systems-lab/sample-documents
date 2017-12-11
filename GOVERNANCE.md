@@ -1,3 +1,8 @@
+[Note: The governance process below does not apply to all SSL projects.  For
+example, instances of "TUF" and URL links will need to be replaced.  Please
+modify the text accordingly before incorporating it into your project.]
+
+
 # TUF governance
 This document covers the project's governance and committer process.  The
 project consists of the TUF

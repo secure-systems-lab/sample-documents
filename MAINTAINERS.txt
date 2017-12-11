@@ -1,3 +1,7 @@
+[Note: The list of maintainers below does not apply to all SSL projects.
+Please modify the text accordingly before incorporating it into your project.]
+
+
 The project is currently managed by Justin Cappos at New York University.
 Please see GOVERNANCE.md for the project's governance and maintainership.
 
