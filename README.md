@@ -5,10 +5,11 @@ Welcome to the Sample Documents repo for the [Secure Systems Lab
 documents, GitHub templates, and configuration files typically available on SSL
 project repos.
 
-These samples should be reviewed and edited to suit a project's needs.  Many of
-them can satisfy some of the requirements for the [Core Infrastructure
-Initiative (CII) Best Practices
-Badge](https://bestpractices.coreinfrastructure.org/).
+These samples should be reviewed and edited to suit a project's needs.  We encourage
+you to explore the [The Update Framework](https://github.com/theupdateframework/tuf)
+repo to learn how these documents can be used in practice.  Many of the sample
+documents can satisfy some of the requirements for the [Core Infrastructure Initiative
+(CII) Best Practices Badge](https://bestpractices.coreinfrastructure.org/).
 
 
 * Acknowledgements -- A project's README should
