@@ -1,3 +1,9 @@
+[Note: The pyup.io configuration below does not apply to all SSL projects.  For
+example, not all project repos default to the "develop" branch, as specified in
+the "branch" setting.  Please modify the text accordingly before incorporating
+it into your project.]
+
+
 # configure updates globally
 # default: all
 # allowed: all, insecure, False

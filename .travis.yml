@@ -1,3 +1,9 @@
+[Note: The Travis configuration below does not apply to all SSL projects.  For
+instance, a project might opt to store tests in a different directory, so the
+after_success entry below will differ.  Please modify the text accordingly
+before incorporating it into your project.]
+
+
 language: python
 dist: trusty
 sudo: false
