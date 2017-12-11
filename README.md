@@ -1,11 +1,15 @@
 # Secure Systems Lab: Sample Documents
 
-Welcome to the [Secure Systems Lab (SSL)](https://ssl.engineering.nyu.edu/)
-Sample Documents repo! Below you can find samples of text, documents, GitHub
-templates, and configuration files usually available on SSL project repos.
-These samples can be modified to suit a project's needs, and many of them can
-even satisfy some of the requirements for the [Core Infrastructure Initiative
-(CII) Best Practices Badge](https://bestpractices.coreinfrastructure.org/).
+Welcome to the Sample Documents repo for the [Secure Systems Lab
+(SSL)](https://ssl.engineering.nyu.edu/)! Below you can find samples of text,
+documents, GitHub templates, and configuration files typically available on SSL
+project repos.
+
+These samples should be reviewed and edited to suit a project's needs.  Many of
+them can satisfy some of the requirements for the [Core Infrastructure
+Initiative (CII) Best Practices
+Badge](https://bestpractices.coreinfrastructure.org/).
+
 
 * Acknowledgements -- A project's README should
 [acknowledge](ACKNOWLEDGEMENTS.md) who manages the project and indicate any
